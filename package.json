@@ -33,7 +33,7 @@
   "devDependencies": {
     "@commitlint/config-angular": "^8.2.0",
     "@semantic-release/commit-analyzer": "^6.3.0",
-    "@semantic-release/github": "^5.5.4",
+    "@semantic-release/github": "^6.0.0",
     "@semantic-release/npm": "5.3.0",
     "@semantic-release/release-notes-generator": "^7.3.0",
     "commitlint": "^8.2.0",

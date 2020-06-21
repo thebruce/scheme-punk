@@ -66,7 +66,7 @@
     "loglevel": "^1.6.2",
     "molotov": "^2.1.13",
     "moment": "^2.24.0",
-    "mustache": "3.1.0"
+    "mustache": "3.2.0"
   },
   "engines": {
     "node": ">=10"

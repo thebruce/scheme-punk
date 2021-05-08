@@ -62,7 +62,7 @@
   "dependencies": {
     "ajv": "^6.10.0",
     "fs-extra": "^8.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "loglevel": "^1.6.2",
     "molotov": "^2.1.13",
     "moment": "^2.24.0",
